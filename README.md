@@ -10,6 +10,7 @@ ___
 | code        | The Title   | Link                     |
 | :---------- | :--------:  |       ----------:        |
 | Read01      | java basic  |  [link](Read01.md)       |
+| Sql Reading | sql         |  [link](sql.md)          |
 | Read02      | Text        |  [link](Read02.md)       |
 | Read03      | Text        |  [link](Read03.md)       |
 | Read04      | Text        |  [link](Read04.md)       |
