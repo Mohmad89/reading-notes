@@ -12,7 +12,7 @@ ___
 | Read01      | java basic  |  [link](Read01.md)       |
 | Sql Reading | sql         |  [link](sql/sql.md)      |
 | Terminal    | command Line|  [link](Terminal.md)     |
-| Read03      | Text        |  [link](Read03.md)       |
+| Mindset     | MindSet     |  [link](Mindset.md)       |
 | Read04      | Text        |  [link](Read04.md)       |
 | Read05      | Text        |  [link](Read05.md)       |
 | Read06      | Text        |  [link](Read06.md)       |
