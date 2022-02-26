@@ -10,8 +10,8 @@ ___
 | code        | The Title   | Link                     |
 | :---------- | :--------:  |       ----------:        |
 | Read01      | java basic  |  [link](Read01.md)       |
-| Sql Reading | sql         |  [link](sql/sql.md)          |
-| Read02      | Text        |  [link](Read02.md)       |
+| Sql Reading | sql         |  [link](sql/sql.md)      |
+| Terminal    | command Line|  [link](Terminal.md)     |
 | Read03      | Text        |  [link](Read03.md)       |
 | Read04      | Text        |  [link](Read04.md)       |
 | Read05      | Text        |  [link](Read05.md)       |
