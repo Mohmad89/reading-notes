@@ -13,7 +13,7 @@ ___
 | Sql Reading | sql         |  [link](sql/sql.md)      |
 | Terminal    | command Line|  [link](Terminal.md)     |
 | Mindset     | MindSet     |  [link](Mindset.md)       |
-| Read04      | Text        |  [link](Read04.md)       |
+| Read02      | import/loop        |  [link](Read02.md)       |
 | Read05      | Text        |  [link](Read05.md)       |
 | Read06      | Text        |  [link](Read06.md)       |
 | Read07      | Text        |  [link](Read07.md)       |
