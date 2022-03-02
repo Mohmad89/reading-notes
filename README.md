@@ -15,6 +15,6 @@ ___
 | Mindset     | MindSet     |  [link](Mindset.md)       |
 | Read02      | import/loop        |  [link](Read02.md)       |
 | Read03      | Exceptions        |  [link](Read03.md)       |
-| Read06      | Text        |  [link](Read06.md)       |
-| Read07      | Text        |  [link](Read07.md)       |
-| Read08      | Text        |  [link](Read08.md)       |
+| Read04      | oop        |  [link](Read04.md)       |
+| Read05      | Text        |  [link](Read07.md)       |
+| Read06      | Text        |  [link](Read08.md)       |
