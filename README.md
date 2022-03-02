@@ -14,7 +14,7 @@ ___
 | Terminal    | command Line|  [link](Terminal.md)     |
 | Mindset     | MindSet     |  [link](Mindset.md)       |
 | Read02      | import/loop        |  [link](Read02.md)       |
-| Read05      | Text        |  [link](Read05.md)       |
+| Read03      | Text        |  [link](Read03.md)       |
 | Read06      | Text        |  [link](Read06.md)       |
 | Read07      | Text        |  [link](Read07.md)       |
 | Read08      | Text        |  [link](Read08.md)       |
