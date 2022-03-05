@@ -12,9 +12,9 @@ ___
 | Read01      | java basic  |  [link](Read01.md)       |
 | Sql Reading | sql         |  [link](sql/sql.md)      |
 | Terminal    | command Line|  [link](Terminal.md)     |
-| Mindset     | MindSet     |  [link](Mindset.md)       |
-| Read02      | import/loop        |  [link](Read02.md)       |
-| Read03      | Exceptions        |  [link](Read03.md)       |
-| Read04      | oop        |  [link](Read04.md)       |
-| Read05      | Text        |  [link](Read07.md)       |
+| Mindset     | MindSet     |  [link](Mindset.md)      |
+| Read02      | import/loop |  [link](Read02.md)       |
+| Read03      | Exceptions  |  [link](Read03.md)       |
+| Read04      | oop         |  [link](Read04.md)       |
+| Read05      | LinkedList  |  [link](Read05.md)       |
 | Read06      | Text        |  [link](Read08.md)       |
