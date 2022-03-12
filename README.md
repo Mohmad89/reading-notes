@@ -18,3 +18,4 @@ ___
 | Read04      | oop         |  [link](Read04.md)       |
 | Read05      | LinkedList  |  [link](Read05.md)       |
 | Read06      | OOP2        |  [link](Read06.md)       |
+| Read08      | General Code Design Principles|  [link](Read08.md)|
