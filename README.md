@@ -19,3 +19,6 @@ ___
 | Read05      | LinkedList  |  [link](Read05.md)       |
 | Read06      | OOP2        |  [link](Read06.md)       |
 | Read08      | General Code Design Principles|  [link](Read08.md)|
+| Read09      | WRRC and java        |  [link](Read09.md)       |
+| Read09      | Stack and Queue        |  [link](Read10.md)       |
+
