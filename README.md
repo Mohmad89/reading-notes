@@ -22,5 +22,6 @@ ___
 | Read09      | WRRC and java|  [link](Read09.md)      |
 | Read10      | Stack and Queue|  [link](Read10.md)    |
 | Read11      | Spring Boot|  [link](Read11.md)        |
-| Read12      | Spring Boot|  [link](Read12.md)        |
+| Read12      | Spring RESTful Routing & Static Files  |  [link](Read12.md)        |
+| Read13      | Related Resources and Integration Testing|  [link](Read13.md)        |
 
