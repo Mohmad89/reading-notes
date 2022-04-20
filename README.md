@@ -25,6 +25,7 @@ ___
 | Read12      | Spring RESTful Routing & Static Files  |  [link](Read12.md)        |
 | Read13      | Related Resources and Integration Testing|  [link](Read13.md)        |
 | Read15      | Tree|  [link](Read15.md)        |
-| Read15      | Tree|  [link](Read16.md)        |
+| Read16     | Tree|  [link](Read16.md)        |
 | Read17      | Spring boot & oAuth|  [link](Read17.md)        |
+| Read18      | Relationship & Security|  [link](Read18.md)        |
 
