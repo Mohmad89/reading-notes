@@ -28,4 +28,5 @@ ___
 | Read16     | Tree|  [link](Read16.md)        |
 | Read17      | Spring boot & oAuth|  [link](Read17.md)        |
 | Read18      | Relationship & Security|  [link](Read18.md)        |
+| Read19      | Purely functional programming|  [link](Read19.md)        |
 
