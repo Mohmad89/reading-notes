@@ -32,7 +32,7 @@ ___
 
 ___
 
-## code 401 - Amdroid Studio Reading
+## code 401 - Android Studio Reading
 
 | Number      | The Title   | Link                     |
 | :---------- | :--------:  |       ----------:        |
