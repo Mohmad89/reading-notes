@@ -7,7 +7,7 @@ This Website contains the Reading-Notes from .
 ___
 ## code 401 - Advanxed Software Development  
     
-| code        | The Title   | Link                     |
+| Number        | The Title   | Link                     |
 | :---------- | :--------:  |       ----------:        |
 | Read01      | java basic  |  [link](Read01.md)       |
 | Sql Reading | sql         |  [link](sql/sql.md)      |
@@ -30,3 +30,10 @@ ___
 | Read18      | Relationship & Security|  [link](Read18.md)        |
 | Read19      | Purely functional programming|  [link](Read19.md)        |
 
+___
+
+## code 401 - Amdroid Studio Reading
+
+| Number      | The Title   | Link                     |
+| :---------- | :--------:  |       ----------:        |
+| Reade26      | java Fundamintals  |  [link](Read26.md)|
