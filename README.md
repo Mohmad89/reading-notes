@@ -37,3 +37,4 @@ ___
 | Number      | The Title   | Link                     |
 | :---------- | :--------:  |       ----------:        |
 | Reade26      | java Fundamintals  |  [link](Read26.md)|
+| Reade27      | Intents, Activities, and SharedPreferences  |  [link](Read27.md)|
