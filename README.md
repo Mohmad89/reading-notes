@@ -40,4 +40,4 @@ ___
 | Reade27      | Intents, Activities, and SharedPreferences  |  [link](Read27.md)|
 | Reade28      | Recycler View |  [link](Read28.md)|
 | Reade29      | Room |  [link](Read29.md)|
-| Reade30      | Room |  [link](Read30.md)|
+| Reade30      | Hash Table |  [link](Read30.md)|
