@@ -43,3 +43,4 @@ ___
 | Reade30      | Hash Table  |  [link](Read30.md)|
 | Reade31      | AWS Amplify |  [link](Read31.md)|
 | Reade32      | Serverless  |  [link](Read32.md)|
+| Reade33      | GraphQL @connection  |  [link](Read33.md)|
