@@ -45,3 +45,4 @@ ___
 | Reade32      | Serverless  |  [link](Read32.md)|
 | Reade33      | GraphQL @connection  |  [link](Read33.md)|
 | Reade34      | Monetization  |  [link](Read34.md)|
+| Reade35      | Graphs  |  [link](Read35.md)|
