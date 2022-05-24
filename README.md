@@ -46,3 +46,4 @@ ___
 | Reade33      | GraphQL @connection  |  [link](Read33.md)|
 | Reade34      | Monetization  |  [link](Read34.md)|
 | Reade35      | Graphs  |  [link](Read35.md)|
+| Reade36      | Cognito  |  [link](Read36.md)|
