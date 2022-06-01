@@ -49,3 +49,4 @@ ___
 | Reade36      | Cognito  |  [link](Read36.md)|
 | Reade37      | Amazon S3  |  [link](Read37.md)|
 | Reade38      | Intent Filter  |  [link](Read38.md)|
+| Reade39      | Location  |  [link](Read39.md)|
