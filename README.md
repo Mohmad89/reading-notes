@@ -50,3 +50,4 @@ ___
 | Reade37      | Amazon S3  |  [link](Read37.md)|
 | Reade38      | Intent Filter  |  [link](Read38.md)|
 | Reade39      | Location  |  [link](Read39.md)|
+| Reade41      | Pinpoint & Polly |  [link](Read41.md)|
