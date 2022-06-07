@@ -36,18 +36,20 @@ ___
 
 | Number      | The Title   | Link                     |
 | :---------- | :--------:  |       ----------:        |
-| Reade26      | java Fundamintals  |  [link](Read26.md)|
-| Reade27      | Intents, Activities, and SharedPreferences  |  [link](Read27.md)|
-| Reade28      | Recycler View |  [link](Read28.md)|
-| Reade29      | Room |  [link](Read29.md)|
-| Reade30      | Hash Table  |  [link](Read30.md)|
-| Reade31      | AWS Amplify |  [link](Read31.md)|
-| Reade32      | Serverless  |  [link](Read32.md)|
-| Reade33      | GraphQL @connection  |  [link](Read33.md)|
-| Reade34      | Monetization  |  [link](Read34.md)|
-| Reade35      | Graphs  |  [link](Read35.md)|
-| Reade36      | Cognito  |  [link](Read36.md)|
-| Reade37      | Amazon S3  |  [link](Read37.md)|
-| Reade38      | Intent Filter  |  [link](Read38.md)|
-| Reade39      | Location  |  [link](Read39.md)|
-| Reade41      | Pinpoint & Polly |  [link](Read41.md)|
+| Read26      | java Fundamintals  |  [link](Read26.md)|
+| Read27      | Intents, Activities, and SharedPreferences  |  [link](Read27.md)|
+| Read28      | Recycler View |  [link](Read28.md)|
+| Read29      | Room |  [link](Read29.md)|
+| Read30      | Hash Table  |  [link](Read30.md)|
+| Read31      | AWS Amplify |  [link](Read31.md)|
+| Read32      | Serverless  |  [link](Read32.md)|
+| Read33      | GraphQL @connection  |  [link](Read33.md)|
+| Read34      | Monetization  |  [link](Read34.md)|
+| Read35      | Graphs  |  [link](Read35.md)|
+| Read36      | Cognito  |  [link](Read36.md)|
+| Read37      | Amazon S3  |  [link](Read37.md)|
+| Read38      | Intent Filter  |  [link](Read38.md)|
+| Read39      | Location  |  [link](Read39.md)|
+| Read41      | Pinpoint & Polly |  [link](Read41.md)|
+| -------      | Ethics |  [link](Ethics.md)|
+| Read42      | Google AdMob |  [link](Ethics.md)|
