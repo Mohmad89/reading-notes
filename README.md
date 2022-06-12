@@ -53,3 +53,4 @@ ___
 | Read41      | Pinpoint & Polly |  [link](Read41.md)|
 | -------      | Ethics |  [link](Ethics.md)|
 | Read42      | Google AdMob |  [link](Ethics.md)|
+| Read43      | Open-Source Software Contribution |  [link](Read43.md)|
